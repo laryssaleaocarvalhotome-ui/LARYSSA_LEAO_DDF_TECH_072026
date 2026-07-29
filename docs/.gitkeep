@@ -1,0 +1,8 @@
+docs/
+data/
+notebooks/
+sql/
+dashboard/
+streamlit/
+images/
+presentation/
