@@ -159,6 +159,29 @@ O projeto culminou na construção do dashboard abaixo:
 
 ---
 
+---
+
+# ▶️ Executando o Data App
+
+O projeto inclui um Data App desenvolvido com **Streamlit**, localizado na pasta `streamlit`.
+
+### Instalação das dependências
+
+```bash
+cd streamlit
+pip install -r requirements.txt
+```
+
+### Execução
+
+```bash
+streamlit run app.py
+```
+
+O aplicativo apresenta os principais indicadores, dashboard executivo e visualizações desenvolvidas durante a análise exploratória de dados.
+
+---
+
 # 👩‍💻 Autora
 
 **Laryssa Leão de Carvalho Tomé**
