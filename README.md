@@ -131,9 +131,9 @@ O projeto culminou na construção de um Dashboard Executivo contendo:
 
 Exemplo:
 
-```markdown
+markdown
 ![Dashboard](images/dashboard_executivo.png)
-```
+
 
 ---
 
