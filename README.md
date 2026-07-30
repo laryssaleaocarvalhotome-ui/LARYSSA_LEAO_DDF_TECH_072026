@@ -129,10 +129,35 @@ O projeto culminou na construção de um Dashboard Executivo contendo:
 
 > **Adicione aqui uma imagem do dashboard quando fizer o upload para a pasta `images`.**
 
-Exemplo:
+## 📊 Dashboard Executivo
 
-markdown
-![Dashboard](images/dashboard_executivo.png)
+O projeto culminou na construção do dashboard abaixo:
+
+![Dashboard Executivo](images/dashboard_executivo.png)
+
+---
+
+## 📈 Principais Visualizações
+
+### 👥 Clientes por Estado
+
+![Clientes por Estado](images/clientes_estado.png)
+
+### 🛒 Top 10 Categorias Mais Vendidas
+
+![Top Categorias](images/top_categorias.png)
+
+### 📅 Evolução Mensal dos Pedidos
+
+![Evolução dos Pedidos](images/evolucao_pedidos.png)
+
+### ⭐ Distribuição das Avaliações
+
+![Avaliações](images/avaliacoes_clientes.png)
+
+### 🚚 Distribuição do Tempo de Entrega
+
+![Tempo de Entrega](images/tempo_entrega.png)
 
 
 ---
