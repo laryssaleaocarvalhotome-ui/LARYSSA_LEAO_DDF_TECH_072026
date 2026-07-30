@@ -169,6 +169,15 @@ O aplicativo apresenta os principais indicadores, dashboard executivo e visualiz
 
 ---
 
+## 🎥 Vídeo de Apresentação
+
+Este projeto possui uma apresentação em vídeo demonstrando a estrutura do repositório, a análise exploratória, os principais insights, o dashboard executivo e a aplicação em Streamlit.
+
+**Link do vídeo:**
+https://youtu.be/BfM-8Hd5eRY
+
+---
+
 # 👩‍💻 Autora
 
 **Laryssa Leão de Carvalho Tomé**
