@@ -116,19 +116,6 @@ Foi observado crescimento consistente do volume de pedidos ao longo do período 
 
 ---
 
-# 📊 Dashboard Executivo
-
-O projeto culminou na construção de um Dashboard Executivo contendo:
-
-- KPIs principais;
-- Clientes por estado;
-- Top categorias;
-- Evolução mensal dos pedidos;
-- Distribuição das avaliações;
-- Tempo de entrega.
-
-> **Adicione aqui uma imagem do dashboard quando fizer o upload para a pasta `images`.**
-
 ## 📊 Dashboard Executivo
 
 O projeto culminou na construção do dashboard abaixo:
