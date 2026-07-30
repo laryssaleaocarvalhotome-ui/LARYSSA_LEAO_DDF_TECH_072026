@@ -146,19 +146,6 @@ O projeto culminou na construção do dashboard abaixo:
 
 ![Tempo de Entrega](images/tempo_entrega.png)
 
-
----
-
-# 🚀 Possíveis Melhorias
-
-- Dashboard interativo com Streamlit;
-- Integração com SQL;
-- Atualização automática dos dados;
-- Filtros dinâmicos;
-- Publicação em ambiente web.
-
----
-
 ---
 
 # ▶️ Executando o Data App
